@@ -3,11 +3,11 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=5500&pause=800&color=1FA9E1&center=true&vCenter=true&width=435&lines=Hallo+Coders%F0%9F%91%8B;Call+Me+Rabu!" alt="Typing SVG" /></a>
 </h1>
- <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" />  Empoweriing AI, Not Replacing Me  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /></h3>
+ <h4 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" />  Empoweriing AI, Not Replacing Me  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /></h4>
 
 <div align="center">
 
-✨Opportunities Aren’t Found — They’re **Created**.✨
+<h5>✨Opportunities Aren’t Found — They’re Created.✨</h5>
 <br/>
 
  </div>
